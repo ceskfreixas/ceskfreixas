@@ -8,8 +8,8 @@ Escriptor (de cançons, de llibres, de codi).
 
 ## Suport
 
-Si vols donar suport al desenvolupament:
+Si vols donar suport al desenvolupament, pots subscriure't a la meva pàgina de l'Aixeta, la plataforma catalana de micromecenatge continu:
 
-[![Dona suport a Liberapay](https://img.shields.io/badge/Liberapay-donar-yellow?logo=liberapay&logoColor=white)](https://liberapay.com/ceskfreixas)
+[![Aixeta: subscriu-te](https://img.shields.io/badge/Aixeta-subscriu--te-55dcde?style=for-the-badge)](https://ceskfreixas.aixeta.cat/ca/subscriptions)
 
 Més informació a [ceskfreixas.cat](https://ceskfreixas.cat).
