@@ -1,6 +1,6 @@
 # Cesk Freixas
 
-Escriptor (de cançons, de llibres, de codi).<br>
+Escriptor (de cançons, de llibres, de codi). Director de l'Aixeta.<br>
 [ceskfreixas.cat](https://ceskfreixas.cat)
 
 ## Projectes
