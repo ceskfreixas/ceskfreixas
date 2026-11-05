@@ -1,6 +1,7 @@
 # Cesk Freixas
 
 Escriptor (de cançons, de llibres, de codi).
+
 [ceskfreixas.cat](https://ceskfreixas.cat)
 
 ## Projectes
