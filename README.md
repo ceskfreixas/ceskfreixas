@@ -5,7 +5,7 @@ Escriptor (de cançons, de llibres, de codi).<br>
 
 ## Projectes
 
-- **[CampBase](https://github.com/ceskfreixas/campbase)**: aplicació kanban nativa per a GNOME, feta amb GTK 4 i Adwaita i sincronitzada amb Nextcloud Deck.
+- **[Campbase](https://github.com/ceskfreixas/campbase)**: aplicació kanban nativa per a GNOME, feta amb GTK 4 i Adwaita i sincronitzada amb Nextcloud Deck.
 
 ## Suport
 
