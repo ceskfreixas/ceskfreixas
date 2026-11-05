@@ -1,8 +1,5 @@
 # Cesk Freixas
 
-Escriptor (de cançons, de llibres, de codi). Director de l'Aixeta.<br>
-[ceskfreixas.cat](https://ceskfreixas.cat)
-
 ## Projectes
 
 - **[Campbase](https://github.com/ceskfreixas/campbase)**: aplicació kanban nativa per a GNOME, feta amb GTK 4 i Adwaita i sincronitzada amb Nextcloud Deck.
