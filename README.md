@@ -1,6 +1,6 @@
 # Cesk Freixas
 
-Escriptor (de cançons, de llibres, de codi).
+Escriptor (de cançons, de llibres, de codi). [ceskfreixas.cat](https://ceskfreixas.cat)
 
 ## Projectes
 
@@ -12,4 +12,3 @@ Si vols donar suport al desenvolupament, pots subscriure't a la meva pàgina de 
 
 [![Aixeta: subscriu-te](https://img.shields.io/badge/Aixeta-subscriu--te-55dcde?style=for-the-badge)](https://ceskfreixas.aixeta.cat/ca/subscriptions)
 
-Més informació a [ceskfreixas.aixeta.cat](https://ceskfreixas.aixeta.cat).
